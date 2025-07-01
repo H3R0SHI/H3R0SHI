@@ -1,101 +1,85 @@
 <!-- README.md for H3R0SHI -->
 
-<!-- Profile views counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=H3R0SHI&style=flat-square&color=blue" alt="Profile views" />
+<!-- Pixel Cat in the corner -->
+<style>
+  .pixel-cat {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+  }
+</style>
+<a href="https://twitter.com/intent/follow?screen_name=H3R0SHI" target="_blank" class="pixel-cat">
+  <img src="https://raw.githubusercontent.com/soroushchehresa/pixel-cat-corner/main/cat.gif" height="80" />
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:7700ff&height=180&section=header&text=Hi%20I'm%20H3R0SHI!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&desc=Aesthetic%20Coder%20%7C%20Cozy%20Dev%20%F0%9F%8D%BC&descSize=20&descAlignY=60" />
 </p>
 
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20H3R0SHI!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&desc=Coding%20the%20future%2C%20one%20bit%20at%20a%20time.&descSize=18&descAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Learning+Life+%26+Code+✨;Always+curious%2C+forever+debugging+%F0%9F%A7%90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Cozy+Code+Moments+🌸;Pixel+Projects+%2B+Lofi+Vibes+%E2%99%AA;Building+the+web%2C+softly..." />
 </p>
 
 ---
 
-## 🐾 Meet My Pixel Cats
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="100"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" height="100"/>
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" height="100"/>
-</p>
+### 💾 Aesthetic Bio
 
----
-
-## 💡 About Me
-
-- 🎓 CSE Student | Developer in Progress 🚀  
-- 👾 Bots, scripts, websites, fun projects — I’m all in!  
-- 🎨 Pixel & anime aesthetics make my day  
-- ⚡ Currently exploring: React, MongoDB, and APIs  
-- 🌈 Vibes: Curious + Cozy + Creative
-
----
-
-## 🛠️ Skills & Tools
-
-```bash
-Languages:    Python, C, JavaScript, C++
-Frontend:     HTML, CSS, React, Tailwind
-Backend:      Node.js, Express
-Database:     MongoDB, SQLite
-Tools:        Git, GitHub, VS Code, Figma, Linux
+```yaml
+name: Heroshi
+username: H3R0SHI
+vibe: "✨ comfy pixel dev"
+code_style: "clean, quirky, and kawaii"
+now_playing: "lofi.cafe"
+fav_languages: ["Python", "JavaScript", "C"]
+learning: ["Node.js", "MongoDB", "React"]
 ```
 
 ---
 
-## ✨ Cool Widgets
+### 🧸 Featured Pixels
 
-### 🔥 Contributions Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H3R0SHI/H3R0SHI/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
-### 🎵 Spotify Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=PLACEHOLDER_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false" height="100">
-</p>
-
-### 🌤️ Current Weather
-<p align="center">
-  <img src="https://wttr.in/Dhaka?format=3" alt="Weather in Dhaka">
-</p>
-
-### 📸 Inspirational Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <img src="https://64.media.tumblr.com/bb93e24291e10b36e4a24fc2a3f139d5/tumblr_pqynjvXzUN1wz7wh9o1_500.gifv" height="180"/>
 </p>
 
 ---
 
-## 📂 Featured Repos
+### 🎵 Lofi Background Sound
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H3R0SHI&repo=fun-bot&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H3R0SHI&repo=study-notes&theme=radical" />
-</p>
+[![Lofi Cafe](https://img.shields.io/badge/Now_Playing-Lofi_Cafe-ff79c6?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
+> Best enjoyed with headphones and warm tea ☕🎧
 
 ---
 
-## 📫 Let’s Be Friends!
+### 🌱 My Cozy Stack
+
+```bash
+💻 Languages:      Python • JavaScript • C • C++
+🌐 Frontend:       HTML • CSS • Tailwind • React
+🗃️ Backend:        Node.js • Express • MongoDB
+🎨 Tools:          Figma • Git • Linux • VS Code
+```
+
+---
+
+### 💌 Let's Connect & Chill
 
 <p align="center">
-  <a href="https://github.com/H3R0SHI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://discord.com/users/PLACEHOLDER_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/H3R0SHI"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:heroshi@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/PLACEHOLDER_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/PLACEHOLDER_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌟 Fun Facts
+### ✨ Fun Facts
 
-- 🐱 I insert cat gifs in code comments when I’m stuck  
-- 🎮 My debug process involves gaming breaks  
-- ✨ Coffee? Nope. I'm powered by motivation and memes
+- 🧋 I debug better with chillhop on  
+- 🧸 I'm that dev who matches terminal themes with seasons  
+- 🐱 I dream of building a cozy pixel town in code one day
 
 ---
 
