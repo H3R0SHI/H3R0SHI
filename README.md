@@ -81,4 +81,4 @@ Want to team up, chat code, or just share memes?
 <p align="center">
   <b>Thanks for scrolling!</b> <br>
   💥 <i>Keep exploring, keep learning, and never stop compiling.</i> 💥
-</p> ```
+</p>
